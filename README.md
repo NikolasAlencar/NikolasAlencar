@@ -28,7 +28,7 @@ Estou constantemente explorando novas tecnologias e aprimorando minhas habilidad
 
 ## Contato
 
-- 📫 Como entrar em contato comigo: [LinkedIn](https://www.linkedin.com/in/nikolas-alencar-234474182/)
+- 📫 Como entrar em contato comigo: nikolasalencarrs73@gmail.com
 - 💼 Meu perfil no LinkedIn: [Nikolas Alencar](https://www.linkedin.com/in/nikolas-alencar-234474182/)
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou apenas para trocar ideias sobre tecnologia!
