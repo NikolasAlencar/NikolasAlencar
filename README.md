@@ -18,7 +18,6 @@ Sou um desenvolvedor entusiasta e apaixonado por resolver problemas usando tecno
 
 ### Frameworks:
 
-![React.js](https://img.shields.io/badge/React.js-Advanced-blue)
 ![React](https://img.shields.io/badge/React-Advanced-blue)
 ![Angular](https://img.shields.io/badge/Angular-Advanced-red)
 ![AngularJS](https://img.shields.io/badge/AngularJS-Advanced-red)
