@@ -5,7 +5,7 @@
 Sou um desenvolvedor entusiasta e apaixonado por resolver problemas usando tecnologia. Tenho experiência em diversas áreas da programação e estou sempre buscando aprender e me aprimorar.
 
 - 🎓 Bacharel em Ciência da Computação pela UNIP
-- 💼 Trabalhando como Desenvolvedor Front-End Pleno no Itau
+- 💼 Trabalhando como Desenvolvedor Front-End Pleno no Itaú
 
 ## Linguagens e Frameworks
 
